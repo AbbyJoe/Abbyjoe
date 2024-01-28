@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abiodun</h1>
-<h3 align="center">A Frontend Engineer with expertise in Vue.js/Nuxt and a deep understanding of the fintech industry. I am passionate about creating seamless and engaging user experiences, driven by the latest web development tools and best practices</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<h1 align="left">Hi 👋, I'm Abiodun</h1>
+<h3 align="left">A Frontend Engineer with expertise in Vue.js/Nuxt and a deep understanding of the fintech industry. I am passionate about creating seamless and engaging user experiences, driven by the latest web development tools and best practices</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbyjoe&label=Profile%20views&color=0e75b6&style=flat" alt="abbyjoe" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abbyjoe.vercel.app/](https://abbyjoe.vercel.app/)
 
-- 💬 Ask me about ** anything frontend, VueJs, NuxtJs**
+- 💬 Ask me about **anything frontend, VueJs, NuxtJs**
 
 - 📫 How to reach me **arigbedeabiodun@gmail.com**
 

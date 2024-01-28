@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently building [Midddleman an escrow platform for social commerce](https://midddleman.co)
 
-- 🌱 I’m currently learning **Devops/SSR**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://abbyjoe.vercel.app/](https://abbyjoe.vercel.app/)
 

@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abbyjoe__" target="blank"><img src="https://img.shields.io/twitter/follow/abbyjoe__?logo=twitter&style=for-the-badge" alt="abbyjoe__" /></a> </p>
 
-- 🔭 I’m currently building [Midddleman an escrow platform for social commerce](https://midddleman.co)
+- 🔭 I’m currently building [Midddleman an intelligent sourcing and payment platform for African businesses importing from China](https://midddleman.co)
 
 - 🌱 I’m currently learning **Devops**
 

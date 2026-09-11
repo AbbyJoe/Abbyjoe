@@ -98,29 +98,6 @@ I’ve worked on products serving institutions and businesses across the African
 
 ---
 
-### 🔨 Things I Care About
-
-```text
-Building products        ████████████████████
-System design             ██████████████████░░
-Frontend engineering      ████████████████████
-Backend engineering       ████████████████░░░░
-Cloud infrastructure      ███████████████░░░░░
-Technical leadership      █████████████████░░░
-Product thinking          ██████████████████░░
-```
-
-I care about writing software that is:
-
-* Reliable in production
-* Easy to maintain
-* Secure by design
-* Fast for users
-* Simple to operate
-* Built around real business requirements
-
----
-
 ### 🌱 Currently Learning
 
 I’m going deeper into:

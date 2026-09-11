@@ -9,14 +9,14 @@ I’m a software engineer with 5+ years of experience building production system
 </p>
 
 <p align="left">
-I currently lead engineering at <a href="https://midddleman.co">Midddleman</a>, where I’m building technology that simplifies Africa–China trade — from product discovery and supplier sourcing to payments, procurement, logistics, and fulfillment.
+I currently lead the technical direction of <a href="https://midddleman.co">Midddleman</a>, where I’m building technology that simplifies Africa–China trade — from product discovery and supplier sourcing to payments, procurement, logistics, and fulfillment.
 </p>
 
 ---
 
 ### 🚀 What I'm Building
 
-**[Midddleman](https://midddleman.co)** — An intelligent sourcing and payment platform helping African businesses import from China.
+**[Midddleman](https://midddleman.co)** — A platform that helps African businesses import from China seamlessly.
 
 I work across the product and engineering stack, including:
 

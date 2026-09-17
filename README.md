@@ -5,7 +5,7 @@ Senior Software Engineer building fintech products, scalable systems, and produc
 </h3>
 
 <p align="left">
-I’m a software engineer with 5+ years of experience building production systems across fintech and digital commerce. My core strength is frontend engineering with Vue.js/Nuxt.js, but my work increasingly spans backend systems, APIs, cloud infrastructure, system architecture, and technical leadership.
+I’m a software/product engineer with 5+ years of experience building production systems across fintech, saas and digital commerce. My core strength is frontend engineering with Vue.js/Nuxt.js and React/Next.js, but my work increasingly spans backend systems, APIs, cloud infrastructure, system architecture, and technical leadership.
 </p>
 
 <p align="left">
@@ -127,7 +127,7 @@ I use my personal projects to explore new technologies, architecture patterns, A
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/abiodun-arigbede-8a0512178/" target="_blank">
+<a href="https://linkedin.com/in/abiodun-arigbede/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/abbyjoe__" target="_blank">
